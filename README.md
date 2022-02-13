@@ -1,10 +1,13 @@
 # ezcountryapp
 
-A new Flutter project.
+An application which share you the countries information
+
+Flutter Version: 2.5.3
+Dart Version >2.10.0
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a demo project which guides you about the flutter creartion
 
 A few resources to get you started if this is your first Flutter project:
 
